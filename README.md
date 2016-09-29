@@ -1,4 +1,4 @@
-# DataAnalysisProjects
+# Data_Analysis_Projects
 
 Three data analysis projects:
 
